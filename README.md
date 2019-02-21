@@ -1,2 +1,2 @@
-# Hear-Your-Neighbor-Android-SDK
-Hear-Your-Neighbor-Android-SDK
+# Hear-Your-Neighbour-Android-SDK
+Hear-Your-Neighbour-Android-SDK
